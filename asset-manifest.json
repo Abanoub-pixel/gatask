@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gatask/static/css/main.073c9b0a.css",
+    "main.js": "/gatask/static/js/main.0ffd0e51.js",
+    "static/js/787.0c3f432a.chunk.js": "/gatask/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/gatask/index.html",
+    "main.073c9b0a.css.map": "/gatask/static/css/main.073c9b0a.css.map",
+    "main.0ffd0e51.js.map": "/gatask/static/js/main.0ffd0e51.js.map",
+    "787.0c3f432a.chunk.js.map": "/gatask/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0ffd0e51.js"
+  ]
+}
